@@ -4,7 +4,7 @@ import mundo.Calculadora;
 import javax.swing.JOptionPane;
 
 /**
- * @author Josué Romero
+ * @author JosuéRomero
  * @date 07/03/2022
  */
 public class InterfazApp2 {

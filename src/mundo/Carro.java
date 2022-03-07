@@ -1,8 +1,5 @@
 package mundo;
 
-/*
-  Utility
-*/
 public class Carro {
     private String marca;
     private String modelo;
