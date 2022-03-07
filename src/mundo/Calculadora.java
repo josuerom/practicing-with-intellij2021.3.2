@@ -9,6 +9,7 @@ import java.text.DecimalFormat;
 public class Calculadora {
     private int datoA;
     private int datoB;
+    private int resultado = 0;
 
     DecimalFormat dosDecimales = new DecimalFormat("#.##");
 
@@ -20,20 +21,20 @@ public class Calculadora {
 
     /* Método Sumar */
     public void sumarDatos() {
-        int sumaTotal = (datoA + datoB);
-        JOptionPane.showMessageDialog(null, "La suma total es = " + sumaTotal, "Suma TotaL", JOptionPane.INFORMATION_MESSAGE);
+        resultado = (datoA + datoB);
+        JOptionPane.showMessageDialog(null, "La suma total es = " + resultado, "Suma TotaL", JOptionPane.INFORMATION_MESSAGE);
     }
 
     /* Método Restar */
     public void restarDatos() {
-        int restaTotal = (datoA - datoB);
-        JOptionPane.showMessageDialog(null, "La resta total es = " + restaTotal, "Resta TotaL", JOptionPane.INFORMATION_MESSAGE);
+        resultado = (datoA - datoB);
+        JOptionPane.showMessageDialog(null, "La resta total es = " + resultado, "Resta TotaL", JOptionPane.INFORMATION_MESSAGE);
     }
 
     /* Método Multiplicar */
     public void multiplicarDatos() {
-        int multiplicacionTotal = (datoA * datoB);
-        JOptionPane.showMessageDialog(null, "La multiplicación total es = " + multiplicacionTotal, "Multiplicación TotaL", JOptionPane.INFORMATION_MESSAGE);
+        resultado = (datoA * datoB);
+        JOptionPane.showMessageDialog(null, "La multiplicación total es = " + resultado, "Multiplicación TotaL", JOptionPane.INFORMATION_MESSAGE);
     }
 
     /* Método Dividir */
