@@ -3,6 +3,10 @@ package interfaz;
 import mundo.Calculadora;
 import javax.swing.JOptionPane;
 
+/**
+ * @author JosuéRomero
+ * @date 07/03/2022
+ */
 public class InterfazApp2 {
 
     public static void main(String[] args) {
