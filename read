@@ -1,0 +1,43 @@
+[33mcommit f5d2fa11022c6ee38a28ffa8116393234e821666[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Mon Mar 7 15:24:18 2022 -0500
+
+    Revert "Realizar git revert a este punto de control"
+    
+    This reverts commit b6f0e3f03c4f22e55554d0276e5518badbf8524f.
+
+[33mcommit b6f0e3f03c4f22e55554d0276e5518badbf8524f[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Mon Mar 7 15:23:46 2022 -0500
+
+    Realizar git revert a este punto de control
+
+[33mcommit 58a0a77937b215564dfee8b91e77d8e08a8337a2[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Mon Mar 7 15:18:00 2022 -0500
+
+    JavaMainClass de la clase Calculadora
+
+[33mcommit 20cc6d1f4524fcdd8223df43a91f34c85d7b73a8[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Mon Mar 7 15:17:40 2022 -0500
+
+    JavaMainClass de la clase Carro
+
+[33mcommit 23ccbe04277d326b4ad318ef33455d2898232d08[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Mon Mar 7 15:09:13 2022 -0500
+
+    Archivos preparados para utilizar.
+
+[33mcommit d2a9f7415bf1bf52e2be7115a91cf35b9932bd47[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Mon Mar 7 12:41:53 2022 -0500
+
+    Estoy aprendiendo a manejar un poco GIT y me siendo emocionado.
+
+[33mcommit 4fcac46ac563bb4ea3f415522b19596592d7fca6[m
+Author: Josué Romero <josueromram@outlook.es>
+Date:   Sun Mar 6 02:22:07 2022 -0500
+
+    Aprendindo OOP en Java
